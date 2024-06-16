@@ -61,10 +61,14 @@ https://drive.google.com/file/d/152YiBLg7v8NyWhSueWZ9rzJLD9j6ai2Q/view?usp=shari
 Path to directory containing model training scripts for a model ```<model_name>```:
 ```<parent_directory>/scripts_train/data_L/v2_scripts/<model_name>```
 
-where we can have ```<model_name> : {PBDLSTM, PBKAN, … }``` for different methods. Here, we present a sample jupyter notebook for ```PBDLSTM```.
+where we can have ```<model_name> : {PBDLSTM, PBKAN, … }``` for different methods.
+
+Here, we present a sample demo jupyter notebook for ```PBDLSTM```. Link to the jupyter notebook: [Jupyter Notebook for PBDLSTM demo](https://github.com/ukdsvl/HZPCNet/blob/main/scripts_train/data_L/v2_scripts/PBDLSTM/reg_PBDLSTM_data_L_s2.ipynb) 
 
 The network architectures for other methods are inspired from the following links:
 
-3.1 KAN: https://github.com/KindXiaoming/pykan 
+### 3.1 KAN:
+https://github.com/KindXiaoming/pykan 
 
-3.2 xLSTM: https://github.com/NX-AI/xlstm 
+### 3.2 xLSTM:
+https://github.com/NX-AI/xlstm 
