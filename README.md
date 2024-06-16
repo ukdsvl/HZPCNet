@@ -42,10 +42,13 @@ where, <TEA>: {GG, SS, SG, GS}
 
 Link to GG file: https://drive.google.com/file/d/1TiXX42AXCeQfss1YhwCA7htJEChaxb5e/view?usp=sharing
 
+
 Link to GS file:
 https://drive.google.com/file/d/1FQrGMc6-Ubm6oD7BNICzLH_zPTSvUAJa/view?usp=sharing
+
 Link to SG file:
 https://drive.google.com/file/d/1xCDhNNKi1O01dMjYA6aC4ApPiMHq9GC_/view?usp=sharing
+
 
 Link to SS file:
 https://drive.google.com/file/d/152YiBLg7v8NyWhSueWZ9rzJLD9j6ai2Q/view?usp=sharing
@@ -60,5 +63,7 @@ where we can have <model_name> : {PBDLSTM, PBKAN, … } for different methods. H
 
 The network architectures for other methods are inspired from the following links:
 
+
 3.1 KAN: https://github.com/KindXiaoming/pykan 
+
 3.2 xLSTM: https://github.com/NX-AI/xlstm 
