@@ -30,7 +30,7 @@ The above directory contains 50 files, which occupy a combined disk space of ```
 
 ### 1.2 CONSOLIDATED CONFIGURATION DATASET SPLITS
 
-To save time, a ```.npz file``` containing pre-processed data can be stored in the following location:
+To save time, a ```.npz file``` containing consolidated pre-processed data can be stored in the following location:
 ```<parent_directory>/input_data/data_L_1/pre_saved_npfiles/zonenet_npfile.npz```
 
 This file can be downloaded from the following link:
